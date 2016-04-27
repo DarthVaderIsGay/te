@@ -232,7 +232,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {44444046,133615072},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[⚡️ Xamarin Plus Bot v1.0
     
